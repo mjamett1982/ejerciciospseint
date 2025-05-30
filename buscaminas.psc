@@ -236,6 +236,6 @@ Proceso Buscaminas
 		Escribir "YOU ARE THE PLAYER ONE!!!";
 	FinSi
 	escribir "hola mundo cruel y despiadado";
-	Escribir "hola 2!";
+	
 	
 FinProceso
