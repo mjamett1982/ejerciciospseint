@@ -235,5 +235,6 @@ Proceso Buscaminas
 	SiNo
 		Escribir "YOU ARE THE PLAYER ONE!!!";
 	FinSi
+	escribir "hola";
 	
 FinProceso
